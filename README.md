@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<center><img alt="centered image" height"500" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></center>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
