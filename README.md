@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>
 Welcome to Michaeldiaz200's GitHub
 
-![Banner de Michaeldiaz200](github-header-image.png)
+![Banner de Michaeldiaz200](github-header-image3.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-andr%C3%A9s-d%C3%ADaz-trivi%C3%B1o-202426245/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][def]
