@@ -8,7 +8,7 @@ Welcome to Michaeldiaz200's GitHub
 
 [def]: https://www.instagram.com/maicol.diaz08/
 
-"Full Stack Developer apasionado por la creación de aplicaciones web y móviles. Con experiencia en tecnologías como JavaScript, React, Node.js, y bases de datos SQL y NoSQL. Comprometido con la creación de soluciones eficientes y escalables para desafíos técnicos."
+"Full Stack Developer with experience in creating complete web applications, from conception to implementation. Expert in using front-end technologies such as React JS to create dynamic and attractive user interfaces. Extensive back-end knowledge with Node .js and experience in the design and management of SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases. Able to work as a team, adapt to new challenges and deliver high-quality solutions in a timely manner."
 
 ## Technologies 💻
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
